@@ -1038,11 +1038,22 @@ PrefabInstance:
       propertyPath: m_CollisionDetection
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 4987839436016844052, guid: 3656a8e8cf513af469522c10ef08a91d, type: 3}
-      propertyPath: m_ApplyRootMotion
+    - target: {fileID: 8255938270586883011, guid: 3656a8e8cf513af469522c10ef08a91d, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 966911919, guid: 2bf87d3707522467d8ef6d43ad1de96d, type: 3}
+    - target: {fileID: 8255938270586883011, guid: 3656a8e8cf513af469522c10ef08a91d, type: 3}
+      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 8255938270586883011, guid: 3656a8e8cf513af469522c10ef08a91d, type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 0}
+    - {fileID: -6608603394979979697, guid: 3656a8e8cf513af469522c10ef08a91d, type: 3}
+    - {fileID: 7955122582980972520, guid: 3656a8e8cf513af469522c10ef08a91d, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
